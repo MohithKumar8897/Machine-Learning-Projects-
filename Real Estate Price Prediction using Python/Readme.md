@@ -50,6 +50,11 @@ Data was split into training and testing sets. Performance was measured using:
 ### 📉 Predictions vs Actual Prices
 ![](https://github.com/MohithKumar8897/Machine-Learning-Projects-/blob/main/Real%20Estate%20Price%20Prediction%20using%20Python/Actual%20Vs%20pridicted%20house%20prices.png?raw=true)
 
+- **The diagonal dashed line represents where the actual and predicted values would be equal. Points close to this line indicate accurate predictions. From the plot, we can observe:**
+
+- **Many points are close to the diagonal line, suggesting that the model makes reasonably accurate predictions for a significant portion of the test set.
+Some points are further from the line, indicating areas where the model’s predictions deviate more significantly from the actual values.**
+
 ## 🛠️ Technologies Used
 - Python
 - Pandas, NumPy
