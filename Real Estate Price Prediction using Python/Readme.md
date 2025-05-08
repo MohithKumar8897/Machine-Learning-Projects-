@@ -63,5 +63,4 @@ Some points are further from the line, indicating areas where the model’s pred
 
 ## ✅ Conclusion
 
-- **Real Estate Price Prediction helps estimate future property values using machine learning, aiding informed decisions for all stakeholders.  
-This project demonstrates a practical implementation using Python and regression analysis on real-world data.**
+- **Real Estate Price Prediction helps estimate future property values using machine learning, aiding informed decisions for all stakeholders.**
