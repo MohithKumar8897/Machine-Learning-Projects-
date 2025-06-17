@@ -48,15 +48,6 @@ Visual exploratory analysis was conducted and saved as `.png` images for better 
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
-
-- Frequency distributions for categorical features (Gender, Education, Marital Status, etc.)
-- Income and loan amount distributions
-- Loan status versus each feature using bar/box plots
-- Credit history shows the strongest correlation with approval
-
----
-
 ## 🧩 Data Preprocessing
 
 - Handled missing values using mean/mode imputation
