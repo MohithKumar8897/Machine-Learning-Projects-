@@ -77,7 +77,7 @@ Visual exploratory analysis was conducted and saved as `.png` images for better 
 
 ✅ Conclusion
 
-Loan approval prediction leverages a variety of applicant attributes—such as financial history, income, credit behavior, and employment status—to construct predictive models using historical data. Machine learning algorithms, including logistic regression and decision trees, empower lenders to automate and optimize approval decisions.
+Loan approval prediction leverages a variety of applicant attributes—such as financial history, income, credit behavior, and employment status to construct predictive models using historical data. Machine learning algorithms, including logistic regression and decision trees, empower lenders to automate and optimize approval decisions.
 
 This project demonstrates how simple models can achieve meaningful accuracy, with features like credit history playing a crucial role in predictions. With appropriate preprocessing, feature engineering, and model selection, machine learning provides a scalable solution to streamline the loan approval pipeline.
 
